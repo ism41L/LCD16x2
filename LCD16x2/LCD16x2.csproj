@@ -212,7 +212,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\ARM\Debug\" />
-    <Folder Include="bin\x86\Debug\" />
     <Folder Include="obj\ARM\Debug\intermediatexaml\" />
     <Folder Include="obj\ARM\Debug\TempPE\" />
   </ItemGroup>
